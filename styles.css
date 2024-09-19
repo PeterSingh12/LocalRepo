@@ -1,0 +1,12 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+div{
+    background-color: aqua;
+    width: 500 px;
+    height: 400 px;
+    font-size: 28 px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
